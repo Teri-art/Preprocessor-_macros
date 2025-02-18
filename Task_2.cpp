@@ -1,4 +1,4 @@
-#include <iostream>
+/*#include <iostream>
 #define SUB(a, b) ((a) - (b))  
 
 int main() {
@@ -11,4 +11,4 @@ int main() {
     std::cout << SUB(a, b + c) * c << std::endl; 
 
     return 0;
-}
+}*/
